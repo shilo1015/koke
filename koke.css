@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+body{
+  background-color: black;
+}
+
+/*h1.logo{
+  text-align: center;
+  font-family: 'Yomogi', cursive;
+  color: #584F5B;
+}*/
+
+img.icon{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+article{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: #5AFF19;
+}
