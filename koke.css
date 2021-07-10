@@ -18,6 +18,9 @@ img.icon{
   border: 1px solid black;
 }
 
+img.orafu{
+  width: 100vw;
+}
 article{
   text-align: center;
   display: flex;
