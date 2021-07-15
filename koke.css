@@ -5,11 +5,11 @@ body{
   background-color: black;
 }
 
-/*h1.logo{
+.pa{
   text-align: center;
   font-family: 'Yomogi', cursive;
   color: #584F5B;
-}*/
+}
 
 img.icon{
   border-radius: 50%;
